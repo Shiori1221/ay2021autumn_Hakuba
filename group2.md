@@ -1,12 +1,14 @@
 # 白馬プロジェクト
-
+## ウォータースタンド社製品
+https://waterstand.jp/products.html?utm_source=gl&utm_medium=cpc&utm_campaign=g_brand_others&utm_content=brand_others&utm_term=g_sitelink0000018&gclid=CjwKCAiA1aiMBhAUEiwACw25MZv3fUPDxasuVKKIGvQl8I8Le34S7Gw2o8u0LXzFvwneQmpt_Fe2GhoCrSQQAvD_BwE
+ウォータースタンド社　ウォーターサーバー製品
 
 ## これをやる意義とは（第１目標）
 この企画をやる意義は何なのか？
 
 ペットボトルのごみによって環境が汚染され、白馬の美しい景観が損なわれることを防ぐため。
 
-白馬の水を広めるため。→白馬村の名前を全国へ
+白馬の水を広めるため。
 ## 水への意識
 ・白馬村の全校生徒数約１８０人に対し自販機の数は多い
 　しかし、自販機は企業から設置を頼まれているので、容易に数を減らせない
@@ -24,7 +26,7 @@
 ↳どうやって？→自販機を1台まで減らし、校内にウォーターサーバーを設置する。水筒奨励。全校朝礼とかで、この改革についてプレゼン。
 →高校に広めた後に村の活性化をすすめる
 
-→村長などに掛け合ってもらい高校でのプレゼン内容を広めていく← まずは校長等を説得する 
+→村長などに掛け合ってもらい高校でのプレゼン内容を広めていく← まずは校長等を説得する（水のおいしさを広めたらペットボトルのごみが減り、景観が損なわれることを防げるなど目的を示す）
 
 ### 白馬村において、水がどのように認識されているのか知りたい。→水についてちゃんとおいしい水と認識している。
 
@@ -48,7 +50,11 @@
 
 ・コールマンの上位互換である「snow peak」など
 
-・春夏秋冬でそれぞれ違った魅力がある
+・春夏秋冬でそれぞれ違った魅力がある　自然探勝園（春～秋） おたり新そば祭り（秋）
+
+・姫川源流自然探勝園（4月～11月）
+
+
 
 ### 短所
 ・屋内系アクティビティが足りない。なんか増やす。
@@ -59,10 +65,5 @@
 このサービスを利用すると、２２円ほどお得になる。
 今はまだ試験段階。
 
-# 今後やるべきこと
 
-水とリンクさせた観光資源を考える
 
-## ウォータースタンド社製品
-https://waterstand.jp/products.html?utm_source=gl&utm_medium=cpc&utm_campaign=g_brand_others&utm_content=brand_others&utm_term=g_sitelink0000018&gclid=CjwKCAiA1aiMBhAUEiwACw25MZv3fUPDxasuVKKIGvQl8I8Le34S7Gw2o8u0LXzFvwneQmpt_Fe2GhoCrSQQAvD_BwE
-ウォータースタンド社　ウォーターサーバー製品
